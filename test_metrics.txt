@@ -1,0 +1,5 @@
+LinearRegression: RMSE=0.6245, MAE=0.5035, R2=0.4032
+RandomForest_Tuned: RMSE=0.5489, MAE=0.4224, R2=0.5390
+GradientBoosting_Tuned: RMSE=0.5980, MAE=0.4689, R2=0.4527
+
+Selected: RandomForest_Tuned
